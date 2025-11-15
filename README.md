@@ -1,4 +1,4 @@
-# The original Project has been abandoned, links are not up to date
+# The original Project has been abandoned, I removed the Authors links from the readme
 # I provide no support or responsibility
 
 
@@ -18,11 +18,11 @@ https://media.medion.com/cms/medion/alditalkde/ALDI-TALK-Leistungsbeschreibung.p
 ---
 ## 📢 Updates, Hilfe & Community
 
-🔔 Info-Kanal: @ATExtender_infocenter ( https://t.me/ATExtender_infocenter )
+🔔 Info-Kanal: 
 
-👥 Nutzergruppe: @ATExtender_Usergroup ( https://t.me/ATExtender_Usergroup )
+👥 Nutzergruppe: 
 
-🧑‍💻 Support/Entwickler: @CodyMeal ( https://t.me/CodyMeal )
+🧑‍💻 Support/Entwickler: 
 
 ---
 
@@ -188,13 +188,13 @@ Verbesserungen oder Fehlerberichte sind herzlich willkommen!
 
 Wenn du das Projekt unterstützen möchtest, lass gerne eine Spende da:
 
-BTC: bc1q7rddem4wm6ryp3vqtrkxjq427qyy5yuckku90g
+BTC: 
 
-ETH: 0xcBa34A1744d3c89301600182938Fca0134b99A43
+ETH: 
 
-LTC: ltc1qzlwynlnsrw0j4etffne8f8mmnjep2xdtnv66wa
+LTC: 
 
-Aldi-Talk Guthabencode per email an: at-extender@proton.me
+Aldi-Talk Guthabencode per email an: 
 
 ---
 ## 📜 Lizenz
