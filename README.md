@@ -1,3 +1,7 @@
+# The original Project has been abandoned, links are not up to date
+# I provide no support or responsibility
+
+
 # 🚀 ALDI TALK Datenvolumen-Überwachung & Auto-Update Bot
 
 Ein vollautomatisiertes Python-Skript zur Überwachung des verfügbaren ALDI TALK Datenvolumens. Bei Unterschreitung von 1 GB wird automatisch ein Nachbuchen versucht und eine Telegram-Benachrichtigung gesendet. Optional mit **Auto-Update**, **Sleep-Modus**, **Telegram-Support** und mehr.
